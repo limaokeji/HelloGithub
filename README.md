@@ -1,6 +1,6 @@
 # HelloGithub
 for study Git
 
-1
-2
-3
+1A
+2B
+3C
